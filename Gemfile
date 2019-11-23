@@ -76,6 +76,12 @@ gem 'jquery-ui-rails'
 
 gem 'font-awesome-sass', '~> 5.8.1'
 
+gem 'carrierwave', '~> 2.0'
+
+gem 'figaro'
+
+gem 'fog-aws'
+
 source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.3.3'
 end
